@@ -38,6 +38,9 @@
 <br><br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jihoon-An&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Jihoon-An GitHub stats](https://github-readme-stats.vercel.app/api?username=Jihoon-An&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)<br>
+[![Jihoon-An GitHub stats](https://github-readme-stats.vercel.app/api?username=Jihoon-An&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)<br><br>
+ 
+[![](https://img.shields.io/badge/Velog-16C898?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@jihoony)
+[![](https://img.shields.io/badge/Email-D0A9F5?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:jihoony.dev@gmail.com)
 
 </div>
