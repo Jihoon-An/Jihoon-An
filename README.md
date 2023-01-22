@@ -2,14 +2,14 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:36ffa6,50:c471ed,100:f64f59&height=200&section=header&text=Jihoon-An%20github&fontColor=ffffff&fontSize=30&fontAlignY=39)
 
-## 📬Contact!
+# 📬Contact!
   
 [![](https://img.shields.io/badge/Velog-16C898?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@jihoony)
 [![](https://img.shields.io/badge/Email-D0A9F5?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:jihoony.dev@gmail.com) 
  
 <br><br><br>
 
-## 💻 Back-end Skill
+# 💻 Back-end Skill
 
 ![java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=CoffeeScript&logoColor=white) 
 ![spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
@@ -24,7 +24,7 @@
  
 <br><br><br>
 
-## ✨ Front-end Skill
+# ✨ Front-end Skill
   
 ![javascript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![jquery](https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
@@ -36,7 +36,7 @@
  
 <br><br><br>
  
-## 🤝 Cowork tools
+# 🤝 Cowork tools
   
 ![git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![github](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
