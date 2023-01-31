@@ -48,8 +48,8 @@
 
 <br><br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jihoon-An&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jihoon-An&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Jihoon-An GitHub stats](https://github-readme-stats.vercel.app/api?username=Jihoon-An&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)<br><br>
-
+ -->
 
 </div>
